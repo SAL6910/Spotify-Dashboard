@@ -26,8 +26,3 @@ Open the index.html file in a web browser (preferably Chrome).
 
 1. HTML
 2. D3.js v7
-
-
-## Demo
-
-Try the application: 
